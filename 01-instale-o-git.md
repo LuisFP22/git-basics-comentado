@@ -17,11 +17,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<GitHub é uma plataforma online para armazenar e colaborar em repositórios Git>
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<Usar quando quiser armazenar, compartilhar ou colaborar em um projeto Git online. Servindo também de backup>
 
 ---
 
@@ -31,11 +31,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<GitHub é uma plataforma online para armazenar e colaborar em repositórios Git>
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<Usar quando quiser armazenar, compartilhar ou colaborar em um projeto Git online. Servindo também de backup>
 
 ---
 
@@ -45,19 +45,19 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<<GitHub é uma plataforma online para armazenar e colaborar em repositórios Git>
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<Usar quando quiser armazenar, compartilhar ou colaborar em um projeto Git online. Servindo também de backup>
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. GitHub para Windows
-- [ ] 2. GitHub para Mac
-- [ ] 3. Git para todas as plataformas
+- [x] 1. GitHub para Windows
+- [x] 2. GitHub para Mac
+- [x] 3. Git para todas as plataformas
 
 ---
 
