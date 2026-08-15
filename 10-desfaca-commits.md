@@ -19,11 +19,11 @@ git reset [commit]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Move a branch para um ponto com um commit anterior, desfazendo commits depois deste ponto
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Quando quiser voltar o histórico para um commit anterior
 
 ---
 
@@ -35,18 +35,18 @@ git reset --hard [commit]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Volta a branch para um commit específico e descarta as alterações depois dele
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Quando quiser desfazer completamente alterações e commits
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git reset [commit]`
-- [ ] 2. `git reset --hard [commit]`
+- [x] 1. `git reset [commit]`
+- [x] 2. `git reset --hard [commit]`
 
 ---
 
