@@ -202,7 +202,7 @@ git push
 
 | # | Arquivo | Seção | Itens | Concluído |
 | --- | --- | --- | --- | --- |
-| 01 | [01-instale-o-git.md](comandos/01-instale-o-git.md) | Instale o Git | 3 | [ ] |
+| 01 | [01-instale-o-git.md](comandos/01-instale-o-git.md) | Instale o Git | 3 | [x] |
 | 02 | [02-configure-a-ferramenta.md](comandos/02-configure-a-ferramenta.md) | Configure a ferramenta | 2 | [x] |
 | 03 | [03-crie-repositorios.md](comandos/03-crie-repositorios.md) | Crie repositórios | 2 | [x] |
 | 04 | [04-faca-mudancas.md](comandos/04-faca-mudancas.md) | Faça mudanças | 6 | [x] |
@@ -213,8 +213,7 @@ git push
 | 09 | [09-revise-o-historico.md](comandos/09-revise-o-historico.md) | Revise o histórico | 4 | [x] |
 | 10 | [10-desfaca-commits.md](comandos/10-desfaca-commits.md) | Desfaça commits | 2 | [x] |
 | 11 | [11-sincronize-mudancas.md](comandos/11-sincronize-mudancas.md) | Sincronize mudanças | 4 | [x] |
-| | | **Total** | **10** | |
-
+| | | **Total** | **37** | |
 Marque a coluna **Concluído** com `[x]` conforme for fechando cada arquivo.
 
 ---
